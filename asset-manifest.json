@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/JohnKlaineProPort/static/css/main.d462c6db.css",
+    "main.js": "/JohnKlaineProPort/static/js/main.f8c1b8b6.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/JohnKlaineProPort/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/bg-1.jpg": "/JohnKlaineProPort/static/media/bg-1.e7a118c397efc44bbf9e.jpg",
+    "static/media/Poppins-Thin.ttf": "/JohnKlaineProPort/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/JohnKlaineProPort/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/JohnKlaineProPort/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/JohnKlaineProPort/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/JohnKlaineProPort/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/JohnKlaineProPort/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/JohnKlaineProPort/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/lady.png": "/JohnKlaineProPort/static/media/lady.2c54ef6a69cfe97e520f.png",
+    "static/media/mike.png": "/JohnKlaineProPort/static/media/mike.8af8bcf1a1892426bb8d.png",
+    "static/media/mailz.jpeg": "/JohnKlaineProPort/static/media/mailz.d13d5e32cbc73884b526.jpeg",
+    "static/media/man.png": "/JohnKlaineProPort/static/media/man.bd25aa3831d20f3de330.png",
+    "static/media/myLogo.jpg": "/JohnKlaineProPort/static/media/myLogo.3a1576714beb4e20766a.jpg",
+    "static/media/profilepic.jpg": "/JohnKlaineProPort/static/media/profilepic.f9f04bd810db95fe2729.jpg",
+    "static/media/bg.jpg": "/JohnKlaineProPort/static/media/bg.d580cd375921d13ae60d.jpg",
+    "index.html": "/JohnKlaineProPort/index.html",
+    "static/media/programming-skills.svg": "/JohnKlaineProPort/static/media/programming-skills.d19983a9bee884277ffa.svg",
+    "static/media/projects.svg": "/JohnKlaineProPort/static/media/projects.2b352a52b0588dab62f5.svg",
+    "static/media/interests.svg": "/JohnKlaineProPort/static/media/interests.809890a3e4fb0938f61b.svg",
+    "static/media/education.svg": "/JohnKlaineProPort/static/media/education.10cfa28a40119ebd70cf.svg",
+    "static/media/work-history.svg": "/JohnKlaineProPort/static/media/work-history.a566475dedb99dea4bb8.svg",
+    "main.d462c6db.css.map": "/JohnKlaineProPort/static/css/main.d462c6db.css.map",
+    "main.f8c1b8b6.js.map": "/JohnKlaineProPort/static/js/main.f8c1b8b6.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/JohnKlaineProPort/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d462c6db.css",
+    "static/js/main.f8c1b8b6.js"
+  ]
+}
