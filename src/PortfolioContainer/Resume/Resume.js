@@ -88,6 +88,11 @@ const Resume = (props) => {
       subHeading:
         "Technologies Used: Flutter, Dart, Android Studio, XCode",
     },
+    {
+      title: "full project list",
+      duration: { fromDate: "2014", toDate: "current"},
+      description: "link goes here",
+    },
   ];
 
   const resumeDetails = [
