@@ -81,14 +81,6 @@ const Resume = (props) => {
         "Technologies Used:  C#, Android Studio, Swift/XCode, Unity Game Engine, iTween",
     },
     {
-      title: "Leon's Tracker App",
-      duration: { fromDate: "2023", toDate: "2023" },
-      description:
-        "A personal application, made to help my son keep track of his chores and allowance",
-      subHeading:
-        "Technologies Used: Flutter, Dart, Android Studio, XCode",
-    },
-    {
       title: "full project list",
       duration: { fromDate: "2014", toDate: "current"},
       description: "link goes here",
