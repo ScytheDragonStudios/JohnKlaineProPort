@@ -83,7 +83,7 @@ const Resume = (props) => {
     {
       title: "full project list",
       duration: { fromDate: "2014", toDate: "current"},
-      description: "link goes here",
+      description: <a href="https://scythedragonstudios.github.io/projectlistsite/">Click Here for full project list!</a>,
     },
   ];
 
